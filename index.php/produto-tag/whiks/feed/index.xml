@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>whiks &#8211; owi-web</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>Só mais um site WordPress</description>
+	<lastBuildDate>Wed, 21 Apr 2021 21:27:41 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+
+<image>
+	<url>./../../../../wp-content/uploads/2021/04/cropped-cropped-logo-owi-32x32.png</url>
+	<title>whiks &#8211; owi-web</title>
+	<link>./../../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Whisky Cockland 995ml</title>
+		<link>./../../../produto/whisky-cockland-995ml/index.html</link>
+					<comments>./../../../produto/whisky-cockland-995ml/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Wed, 21 Apr 2021 09:09:08 +0000</pubDate>
+				<guid isPermaLink="false">./../../../../index.html?post_type=product&#038;p=1508</guid>
+
+					<description><![CDATA[O whisky Cockland Gold é produzido na Serra Gaúcha, que também apresenta clima frio, fusão de aromas e água pura. Elaborado com malte envelhecido, é guardado em barris de carvalho para completa maturação, adquirindo seu aroma inconf...]]></description>
+										<content:encoded><![CDATA[<p>O whisky Cockland Gold é produzido na Serra Gaúcha, que também apresenta clima frio, fusão de aromas e água pura. Elaborado com malte envelhecido, é guardado em barris de carvalho para completa maturação, adquirindo seu aroma inconfundível.</p>
+<p>O whisky pode ser bebido puro ou com gelo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../produto/whisky-cockland-995ml/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
